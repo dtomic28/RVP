@@ -8,7 +8,8 @@ include_directories(${CMAKE_SOURCE_DIR}/${ASSIGNMENT_NAME}/include)
 
 set(SOURCES
     src/main.cpp
-    # Add more source files here as needed
+        include/bin_io.h
+        # Add more source files here as needed
 )
 
 add_executable(${ASSIGNMENT_NAME} ${SOURCES})
