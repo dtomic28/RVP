@@ -5,6 +5,7 @@
 #include <cassert>
 #include "bin_io.h"
 #include <filesystem>
+#include <format>
 
 using namespace binio;
 
