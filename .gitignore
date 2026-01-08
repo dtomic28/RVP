@@ -44,3 +44,5 @@ bckp
 # cmake
 CMakeUserPresets.json
 CMakeSettings.json
+
+/venv
